@@ -13,6 +13,7 @@ returns the Card as a string in the form “face of suit.” You can use the + o
   f) A moreCards function that returns a bool value indicating whether there are more Cards to deal. The driver program should create a DeckOfCards object, 
      shuffle the cards, then deal the 52 cards.
 
+
 10.11 (Card Shuffling and Dealing) 
 
 Modify the program you developed in Exercise 10.10 so that it deals a five-card poker hand. Then write functions to accomplish each of the following: 
@@ -26,14 +27,17 @@ Modify the program you developed in Exercise 10.10 so that it deals a five-card 
 10.12 (Card Shuffling and Dealing) Use the functions from Exercise 10.11 to write a program that deals two five-card poker hands, 
 evaluates each hand and determines which is the better hand. 
 
+
 10.13 (Card Shuffling and Dealing) Modify the program you developed in Exercise 10.12 so that it can simulate the dealer. 
 The dealer’s five-card hand is dealt “face down” so the player cannot see it. The program should then evaluate the dealer’s 
 hand, and, based on the quality of the hand, the dealer should draw one, two or three more cards to replace the corresponding
-number of unneeded cards in the original hand. The program should then reevaluate the dealer’s hand. 10.14 (Card Shuffling 
+number of unneeded cards in the original hand. The program should then reevaluate the dealer’s hand. 
+
+
+10.14 (Card Shuffling 
 and Dealing) Modify the program you developed in Exercise 10.13 so that it handles the dealer’s hand, but the player is 
 allowed to decide which cards of the player’s hand to replace. The program should then evaluate both hands and determine 
 who wins. Now use this new program to play 20 games against thecomputer. Who wins more games, you or thecomputer? 
 Have one of your friends play 20 games against thecomputer. Who wins more games? Based on the results of these games, 
 make appropriate modifications to refine your poker-playing program. Play 20 more games. Does your modified program play 
 a better game?
-

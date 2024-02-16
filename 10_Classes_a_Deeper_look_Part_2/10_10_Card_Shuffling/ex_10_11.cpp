@@ -1,4 +1,4 @@
-// Exercise 9.24: ex_09_24.cpp
+// Exercise 10.11: ex_10_11.cpp
 // Card Shuffling and Dealing
 #include "Hand.h"
 using namespace std;

@@ -1,4 +1,4 @@
-// Exercise 9.25: ex_09_25.cpp
+// Exercise 10.12: ex_10_12.cpp
 // Card Shuffling, Dealing and determine best hand
 #include <iostream>
 #include "Hand.h"

@@ -1,4 +1,4 @@
-// Fig 11.19: fig11_19.cpp
+// Fig 11.19: ex_11_19.cpp
 // HugeInt test program
 #include <iostream>
 #include "Hugeint.h"

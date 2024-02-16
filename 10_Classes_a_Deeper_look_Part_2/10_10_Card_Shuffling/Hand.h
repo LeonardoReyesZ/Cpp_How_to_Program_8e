@@ -1,7 +1,7 @@
-        // Exercise 9.24: Hand.h
+// Exercise 9.24: Hand.h
 // Member functions defined in Hand.cpp
-#ifndef INC_10_WRAP_UP_10_8_HAND_H
-#define INC_10_WRAP_UP_10_8_HAND_H
+#ifndef HAND_H
+#define HAND_H
 
 #include "DeckOfCards.h"
 
@@ -27,4 +27,4 @@ private:
     int cardRelevance[HSIZE]{0}; // array of int to identify te relevance of each card in the hand
 };
 
-#endif //INC_10_WRAP_UP_10_8_HAND_H
+#endif //HAND_H

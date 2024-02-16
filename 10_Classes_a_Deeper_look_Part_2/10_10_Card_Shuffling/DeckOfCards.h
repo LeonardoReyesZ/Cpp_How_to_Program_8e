@@ -1,7 +1,7 @@
 // Exercise 9.23: DeckOfCards.h
 // Member functions defined in DeckOfCards.cpp
-#ifndef INC_10_WRAP_UP_10_8_DECKOFCARDS_H
-#define INC_10_WRAP_UP_10_8_DECKOFCARDS_H
+#ifndef DECKOFCARDS_H
+#define DECKOFCARDS_H
 
 #include "Card.h"
 
@@ -20,4 +20,4 @@ private:
     int currentCard;
 };
 
-#endif //INC_10_WRAP_UP_10_8_DECKOFCARDS_H
+#endif //DECKOFCARDS_H

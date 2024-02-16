@@ -1,7 +1,7 @@
 // Exercise 9.23: Card.h
 // Member functions defined in Card.cpp
-#ifndef INC_10_WRAP_UP_10_8_CARD_H
-#define INC_10_WRAP_UP_10_8_CARD_H
+#ifndef CARD_H
+#define CARD_H
 
 #include <string>
 using namespace std;
@@ -30,4 +30,4 @@ private:
     size_t suit;
 };
 
-#endif //INC_10_WRAP_UP_10_8_CARD_H
+#endif //CARD_H

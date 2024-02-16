@@ -1,4 +1,4 @@
-// Exercise 10.14:
+// Exercise 10.14: ex_10_14.cpp
 // Card Shuffling, Dealing and simulate a game
 #include <iostream>
 #include "Hand.h"

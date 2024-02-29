@@ -1,8 +1,8 @@
 //  Exercise 11.10: Rational.h
 //  Rational class declaration
 
-#ifndef INC_12_WRAP_UP_11_RATIONAL_H
-#define INC_12_WRAP_UP_11_RATIONAL_H
+#ifndef RATIONAL_H
+#define RATIONAL_H
 
 #include <iostream>
 using namespace std;
@@ -61,4 +61,4 @@ private:
     int denominator;
 };
 
-#endif //INC_12_WRAP_UP_11_RATIONAL_H
+#endif //RATIONAL_H

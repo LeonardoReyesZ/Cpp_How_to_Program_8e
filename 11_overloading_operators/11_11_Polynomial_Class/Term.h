@@ -1,8 +1,8 @@
 // Exercise 11.11: Term.h
 // Term class declaration
 
-#ifndef INC_12_WRAP_UP_11_TERM_H
-#define INC_12_WRAP_UP_11_TERM_H
+#ifndef TERM_H
+#define TERM_H
 
 #include <iostream>
 using namespace std;
@@ -29,4 +29,4 @@ private:
     const string variable = "x"; // just one variable for this exercise
 };
 
-#endif //INC_12_WRAP_UP_11_TERM_H
+#endif //TERM_H

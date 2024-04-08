@@ -1,8 +1,8 @@
 // Exercise 11.11: Polynomial.h
 // Polynomial class declaration
 
-#ifndef INC_12_WRAP_UP_11_POLYNOMIAL_H
-#define INC_12_WRAP_UP_11_POLYNOMIAL_H
+#ifndef POLYNOMIAL_H
+#define POLYNOMIAL_H
 
 #include "Term.h"
 
@@ -34,4 +34,4 @@ private:
     int size; // number of terms
 };
 
-#endif //INC_12_WRAP_UP_11_POLYNOMIAL_H
+#endif //POLYNOMIAL_H

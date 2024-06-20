@@ -1,7 +1,7 @@
 // Fig 11.6+: Date.h
 // Date class definition with overloaded increment operators
-#ifndef INC_11_OPERATOR_OVERLOADING_CLASS_SRING_DATE_H
-#define INC_11_OPERATOR_OVERLOADING_CLASS_SRING_DATE_H
+#ifndef DATE_H
+#define DATE_H
 
 #include <iostream>
 using namespace std;
@@ -28,4 +28,4 @@ private:
     void helpIncrement(); // utility function for incrementing date
 }; // end class Date
 
-#endif //INC_11_OPERATOR_OVERLOADING_CLASS_SRING_DATE_H
+#endif //DATE_H

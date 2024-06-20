@@ -1,7 +1,7 @@
 // Fig. 13.13: CommissionEmployee.h
 // CommissionEmployee class derived from Employee
-#ifndef INC_17_POLYMORPHISM_COMMISSIONEMPLOYEE_H
-#define INC_17_POLYMORPHISM_COMMISSIONEMPLOYEE_H
+#ifndef COMMISSIONEMPLOYEE_H
+#define COMMISSIONEMPLOYEE_H
 
 #include "Employee.h" // Employee class definition
 
@@ -26,4 +26,4 @@ private:
     double commissionRate; // commission percentage
 }; // end class CommissionEmployee
 
-#endif //INC_17_POLYMORPHISM_COMMISSIONEMPLOYEE_H
+#endif //COMMISSIONEMPLOYEE_H

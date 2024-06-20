@@ -1,8 +1,8 @@
 // Fig. 13.11: SalariedEmployee.h
 // SalariedEmployee class derived from Employee
 
-#ifndef INC_17_POLYMORPHISM_SALARIEDEMPLOYEE_H
-#define INC_17_POLYMORPHISM_SALARIEDEMPLOYEE_H
+#ifndef SALARIEDEMPLOYEE_H
+#define SALARIEDEMPLOYEE_H
 
 #include "Employee.h" // Employee class definition
 
@@ -21,4 +21,4 @@ private:
     double weeklySalary; // salary per week
 }; // end class salariedEmployee
 
-#endif //INC_17_POLYMORPHISM_SALARIEDEMPLOYEE_H
+#endif //SALARIEDEMPLOYEE_H

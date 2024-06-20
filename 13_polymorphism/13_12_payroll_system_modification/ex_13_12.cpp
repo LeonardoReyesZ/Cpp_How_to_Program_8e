@@ -1,4 +1,4 @@
-// Ex. 13.12: ex_13.12.cpp
+// Ex. 13.12: ex_13_12.cpp
 // Processing Employee derived-class objects individually plus birthday bonus
 // and polymorphically using dynamic binding.
 #include <iostream>

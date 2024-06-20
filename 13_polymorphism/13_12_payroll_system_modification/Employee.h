@@ -1,7 +1,7 @@
 // Fig. 13.9: Employee.h
 // Employee abstract base class.
-#ifndef INC_17_POLYMORPHISM_EMPLOYEE_H
-#define INC_17_POLYMORPHISM_EMPLOYEE_H
+#ifndef EMPLOYEE_H
+#define EMPLOYEE_H
 
 #include <string> // C++ standard string class
 #include "Date.h" // date class
@@ -34,4 +34,4 @@ private:
     Date birthDay;
 }; // end class Employee_H
 
-#endif //INC_17_POLYMORPHISM_EMPLOYEE_H
+#endif //EMPLOYEE_H

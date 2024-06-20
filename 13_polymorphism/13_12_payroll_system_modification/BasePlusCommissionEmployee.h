@@ -1,7 +1,7 @@
 // Fig. 13.15: BasePlusCommissionEmployee.h
 // BasePlusCommissionEmployee class derived from CommissionEmployee.
-#ifndef INC_17_POLYMORPHISM_BASEPLUSCOMMISSIONEMPLOYEE_H
-#define INC_17_POLYMORPHISM_BASEPLUSCOMMISSIONEMPLOYEE_H
+#ifndef BASEPLUSCOMMISSIONEMPLOYEE_H
+#define BASEPLUSCOMMISSIONEMPLOYEE_H
 
 #include "CommissionEmployee.h" // CommissionEmployee class definition
 
@@ -22,4 +22,4 @@ private:
     double baseSalary; // base salary per week
 }; // end class BasePlusCommissionEmployee
 
-#endif //INC_17_POLYMORPHISM_BASEPLUSCOMMISSIONEMPLOYEE_H
+#endif //BASEPLUSCOMMISSIONEMPLOYEE_H

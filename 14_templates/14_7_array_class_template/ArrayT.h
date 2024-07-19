@@ -49,7 +49,7 @@ Array< T >::Array( int arraySize )
     ptr = new T[size]; // create space for pointer-based array
 
     for( int i=0; i<size; ++i)
-        ptr[i] = 0; // set pointer-based array element
+        ptr[i] = T(); // set pointer-based array element
 } // end Array default constructor
 
 // copy constructor for class Array;
